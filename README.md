@@ -1,5 +1,15 @@
 # FTP Client
 
+- [FTP Client](#ftp-client)
+  - [Recursos](#recursos)
+  - [Requisitos](#requisitos)
+  - [Instalação](#instalação)
+  - [Uso](#uso)
+  - [Estrutura do Projeto](#estrutura-do-projeto)
+  - [Aprendizado e Tecnologias](#aprendizado-e-tecnologias)
+  - [Contribuições](#contribuições)
+  - [Licença](#licença)
+
 Um cliente FTP simples desenvolvido em Python, utilizando a biblioteca `ftplib`. Este projeto foi criado para facilitar operações de transferência de arquivos.
 
 ## Recursos
